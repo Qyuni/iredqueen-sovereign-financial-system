@@ -1,0 +1,28 @@
+iREDQueen-Sovereign-Finance/
+├── .gitignore
+├── package.json
+├── README.md
+├── App.js
+├── app.json
+├── babel.config.js
+├── /src
+│   ├── /config
+│   │   └── tokenConfig.js
+│   ├── /theme
+│   │   └── index.js
+│   ├── /services
+│   │   └── mockBlockchain.js
+│   ├── /components
+│   │   ├── ArchitectureDiagram.js
+│   │   ├── HybridDashboard.js
+│   │   ├── CBDCScreen.js
+│   │   ├── DeFiScreen.js
+│   │   ├── CrossBorderScreen.js
+│   │   ├── IREDScreen.js
+│   │   └── SettingsScreen.js
+│   ├── /navigation
+│   │   └── BottomNavigator.js
+│   └── /utils
+│       └── constants.js
+└── /assets
+    └── /icons
